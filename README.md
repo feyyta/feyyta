@@ -51,8 +51,14 @@
 
 ## Stats
 
+<img src="https://komarev.com/ghpvc/?username=feyyta&label=profile+views&color=F17D0A&style=for-the-badge" alt="profile views"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&icon_color=6DBE45&text_color=ffffff" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=feyyta&background=12253a&border=F17D0A&stroke=F17D0A&ring=F17D0A&fire=D93B3B&currStreakLabel=6DBE45&sideLabels=ffffff&dates=7d93a8&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="GitHub streak"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&text_color=ffffff" height="165" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=feyyta&bg_color=12253a&color=ffffff&line=F17D0A&point=6DBE45&area=true&area_color=F17D0A&hide_border=true" width="95%" alt="Activity graph"/>
 
 ## Contact
 
