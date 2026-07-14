@@ -8,12 +8,15 @@
 
 ```console
 ma2t@dev:~$ whoami
-software developer — low-level programming, system design, problem solving
+software developer
+
+ma2t@dev:~$ cat skills.txt
+low-level programming | system design | problem solving
 ```
 
 ---
 
-## 🟢 Languages
+## Languages
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
@@ -23,13 +26,13 @@ software developer — low-level programming, system design, problem solving
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
 
-## 🧠 Concepts & Paradigms
+## Concepts & Paradigms
 
 `Unix programming` · `multithreading` · `concurrency` · `memory management` ·
 `OOP` · `design patterns` · `algorithms & data structures` · `networking` ·
 `sockets` · `RESTful APIs` · `debugging` · `system design`
 
-## 🛠️ Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
@@ -38,14 +41,14 @@ software developer — low-level programming, system design, problem solving
 ![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=codecrafters&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 
-## 🌐 Web & Networking
+## Web & Networking
 
 `HTTP` · `web server architecture` · `client-server model` · `TCP/IP` ·
 `subnetting` · `TLS` · `containerized services` · `Linux system administration`
 
-## ☁️ Cloud & Security
+## Cloud & Security
 
-> 📚 Currently studying for cloud certifications — learning cloud
+> Currently studying for cloud certifications — learning cloud
 > infrastructure (AWS) and cybersecurity fundamentals.
 
 `cloud computing (in progress)` · `network security (in progress)` · `virtualization` · `CI/CD basics`
@@ -54,14 +57,14 @@ software developer — low-level programming, system design, problem solving
 
 <div align="center">
 
-## 📊 Stats
+## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages"/>
 
 <img src="https://raw.githubusercontent.com/feyyta/feyyta/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:feyta19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/feyyta)
