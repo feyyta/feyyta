@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a1a,50:FF6B9D,100:FFB7C5&height=180&section=header&text=feyyta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%8C%B8%20code%20falls%20like%20petals%20%F0%9F%8C%B8&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header-sakura.svg" width="100%" alt="ma2t"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Software+Developer;Low-level+programming+%C2%B7+System+design;Building+things+one+petal+at+a+time+%F0%9F%8C%B8" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6B9D&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
 </div>
 
 ```console
-feyyta@sakura:~$ whoami
-> Software developer passionate about low-level programming,
-> system design and problem solving.
-
-feyyta@sakura:~$ cat philosophy.txt
-> "Clean code, like cherry blossoms — simple, elegant, gone too soon."
+ma2t@dev:~$ whoami
+software developer — low-level programming, system design, problem solving
 ```
 
 ---

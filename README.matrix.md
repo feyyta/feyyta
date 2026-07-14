@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=180&section=header&text=feyyta&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=wake%20up%2C%20Neo...&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/header-matrix.svg" width="100%" alt="ma2t"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Developer;Low-level+programming+%C2%B7+System+design;Follow+the+white+rabbit+%F0%9F%90%87" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
 </div>
 
 ```console
-feyyta@matrix:~$ whoami
-> Software developer passionate about low-level programming,
-> system design and problem solving.
-
-feyyta@matrix:~$ cat philosophy.txt
-> "There is no spoon. Only segfaults you haven't found yet."
+ma2t@dev:~$ whoami
+software developer — low-level programming, system design, problem solving
 ```
 
 ---
