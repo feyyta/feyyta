@@ -16,10 +16,13 @@
   <rect x="40" y="22" width="1120" height="196" rx="12" fill="#101c29" stroke="#22364a" stroke-width="1.5"/>
 
   <path d="M40,34 a12,12 0 0 1 12,-12 h1096 a12,12 0 0 1 12,12 v24 h-1120 z" fill="#182636"/>
-  <circle cx="68"  cy="40" r="7" fill="#D93B3B"/>
-  <circle cx="92"  cy="40" r="7" fill="#F7C948"/>
-  <circle cx="116" cy="40" r="7" fill="#6DBE45"/>
-  <text x="600" y="45" text-anchor="middle" font-size="14" fill="#5c748c">ma2t@dev: ~</text>
+  <text x="600" y="45" text-anchor="middle" font-size="14" fill="#8fa8bd">ma2t@dev: ~</text>
+  <g stroke="#8fa8bd" stroke-width="1.6" fill="none">
+    <line x1="1058" y1="44" x2="1070" y2="44"/>
+    <rect x="1088" y="34" width="11" height="11"/>
+    <line x1="1118" y1="34" x2="1129" y2="45"/>
+    <line x1="1129" y1="34" x2="1118" y2="45"/>
+  </g>
 
   <text x="90" y="92" font-size="16" fill="#6DBE45">ma2t@dev:~$ ./whoami</text>
 
