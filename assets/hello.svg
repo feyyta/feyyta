@@ -32,9 +32,8 @@
   <text x="90" y="182" font-size="18" fill="#7d93a8" clip-path="url(#type)">&gt; software developer</text>
 
   <g font-size="15" opacity="0.4">
-    <text x="720" y="118" fill="#8fa8bd">ma2t@dev:~$ <tspan fill="#7d93a8"># don't run this</tspan></text>
-    <text x="720" y="150" fill="#F17D0A">:<tspan fill="#8fa8bd">(){</tspan> <tspan fill="#F17D0A">:</tspan><tspan fill="#57B6D9">|</tspan><tspan fill="#F17D0A">:</tspan><tspan fill="#57B6D9">&amp;</tspan> <tspan fill="#8fa8bd">};</tspan><tspan fill="#F17D0A">:</tspan></text>
-    <text x="720" y="180" fill="#7d93a8" font-size="13">// fork bomb</text>
+    <text x="730" y="132" fill="#57B6D9">01111001 <tspan fill="#8fa8bd">01101111</tspan></text>
+    <text x="730" y="162" fill="#7d93a8" font-size="13">// yo</text>
   </g>
 
   <g>
