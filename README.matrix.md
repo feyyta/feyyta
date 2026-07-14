@@ -54,8 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages"/>
 
-<img src="assets/skill-map-matrix.svg" width="100%" alt="skill map"/>
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:feyta19@gmail.com)

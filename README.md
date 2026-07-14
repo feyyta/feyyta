@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&pause=1200&color=E8502E&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
-<img src="https://media.giphy.com/media/l2Sq3AFdI4rUlTAti/giphy.gif" width="380" alt="cartman coding"/>
+<img src="https://media.giphy.com/media/3o7TKOGI4WScyJNviw/giphy.gif" width="380" alt="kenny"/>
 
 </div>
 
@@ -55,8 +55,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&icon_color=6DBE45&text_color=ffffff" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&text_color=ffffff" height="165" alt="Top languages"/>
-
-<img src="assets/skill-map-southpark.svg" width="100%" alt="skill map"/>
 
 ## Contact
 
