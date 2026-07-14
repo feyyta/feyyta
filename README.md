@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-sakura.svg" width="100%" alt="ma2t"/>
+<img src="assets/banner-sakura.svg" width="100%" alt="ma2t"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6B9D&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
@@ -54,7 +54,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=rose_pine&bg_color=1a0a12&border_color=FF6B9D&title_color=FFB7C5&icon_color=FF6B9D&text_color=e0c3cf" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=rose_pine&bg_color=1a0a12&border_color=FF6B9D&title_color=FFB7C5&text_color=e0c3cf" height="165" alt="Top languages"/>
 
-<img src="assets/skillmap-sakura.svg" width="100%" alt="skill map"/>
+<img src="assets/skill-map-sakura.svg" width="100%" alt="skill map"/>
 
 ## Contact
 

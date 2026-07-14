@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-matrix.svg" width="100%" alt="ma2t"/>
+<img src="assets/banner-matrix.svg" width="100%" alt="ma2t"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
@@ -54,7 +54,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages"/>
 
-<img src="assets/skillmap-matrix.svg" width="100%" alt="skill map"/>
+<img src="assets/skill-map-matrix.svg" width="100%" alt="skill map"/>
 
 ## Contact
 
