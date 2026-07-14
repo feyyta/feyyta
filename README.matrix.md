@@ -6,14 +6,6 @@
 
 </div>
 
-```console
-ma2t@dev:~$ whoami
-software developer
-
-ma2t@dev:~$ cat skills.txt
-low-level programming | system design | problem solving
-```
-
 ---
 
 ## Languages
@@ -62,7 +54,7 @@ low-level programming | system design | problem solving
 <img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages"/>
 
-<img src="https://raw.githubusercontent.com/feyyta/feyyta/output/github-snake-dark.svg" width="100%" alt="snake animation"/>
+<img src="assets/skillmap-matrix.svg" width="100%" alt="skill map"/>
 
 ## Contact
 
