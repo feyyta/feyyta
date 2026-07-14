@@ -34,7 +34,7 @@
   <g font-size="15" opacity="0.4">
     <text x="720" y="112" fill="#57B6D9">while <tspan fill="#8fa8bd">(</tspan><tspan fill="#F17D0A">1</tspan><tspan fill="#8fa8bd">)</tspan></text>
     <text x="750" y="138" fill="#8fa8bd">code<tspan fill="#F17D0A">()</tspan>;</text>
-    <text x="720" y="180" fill="#8fa8bd">sleep<tspan fill="#F17D0A">()</tspan>; <tspan fill="#4e6478">// unreachable</tspan></text>
+    <text x="720" y="180" fill="#8fa8bd">sleep<tspan fill="#F17D0A">()</tspan>;</text>
   </g>
 
   <g>
