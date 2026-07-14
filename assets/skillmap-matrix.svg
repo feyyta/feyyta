@@ -23,15 +23,15 @@
     .dim { fill: #4e7a5c; font-size: 12px; font-style: italic; }
   </style>
 
-  <rect width="1200" height="460" fill="url(#bg)"/>
+  <rect width="1200" height="460" fill="#050805"/>
 
   <path class="flow" d="M600,102 C600,150 175,140 175,192"/>
   <path class="flow" d="M600,102 C600,150 458,145 458,192" style="animation-delay:-0.4s"/>
   <path class="flow" d="M600,102 C600,150 742,145 742,192" style="animation-delay:-0.8s"/>
   <path class="flow" d="M600,102 C600,150 1025,140 1025,192" style="animation-delay:-0.2s"/>
 
-  <rect x="505" y="48" width="190" height="54" rx="12" fill="#050d07" stroke="url(#txt)" stroke-width="2" filter="url(#glow)"/>
-  <text x="600" y="83" text-anchor="middle" font-size="30" font-weight="bold" fill="url(#txt)">ma2t</text>
+  <rect x="505" y="48" width="190" height="54" rx="12" fill="#050d07" stroke="#00FF41" stroke-width="2"/>
+  <text x="600" y="83" text-anchor="middle" font-size="30" font-weight="bold" fill="#7dffa0">ma2t</text>
 
   <g>
     <rect class="box" x="60" y="192" width="230" height="176" rx="10"/>

@@ -61,6 +61,4 @@
 [![Email](https://img.shields.io/badge/Email-2b0a1a?style=for-the-badge&logo=gmail&logoColor=FFB7C5)](mailto:feyta19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-2b0a1a?style=for-the-badge&logo=github&logoColor=FFB7C5)](https://github.com/feyyta)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:FF6B9D,100:2b0a1a&height=100&section=footer" width="100%"/>
-
 </div>
