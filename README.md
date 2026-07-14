@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/banner-sakura.svg" width="100%" alt="ma2t"/>
+<img src="assets/banner-southpark.svg" width="100%" alt="ma2t"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6B9D&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&pause=1200&color=E8502E&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
+
+<img src="https://media.giphy.com/media/l2Sq3AFdI4rUlTAti/giphy.gif" width="380" alt="cartman coding"/>
 
 </div>
 
@@ -10,13 +12,13 @@
 
 ## Languages
 
-![C](https://img.shields.io/badge/C-2b0a1a?style=for-the-badge&logo=c&logoColor=FFB7C5)
-![C++](https://img.shields.io/badge/C++-2b0a1a?style=for-the-badge&logo=cplusplus&logoColor=FFB7C5)
-![Python](https://img.shields.io/badge/Python-2b0a1a?style=for-the-badge&logo=python&logoColor=FFB7C5)
-![Bash](https://img.shields.io/badge/Bash-2b0a1a?style=for-the-badge&logo=gnubash&logoColor=FFB7C5)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b0a1a?style=for-the-badge&logo=javascript&logoColor=FFB7C5)
-![HTML5](https://img.shields.io/badge/HTML5-2b0a1a?style=for-the-badge&logo=html5&logoColor=FFB7C5)
-![CSS3](https://img.shields.io/badge/CSS3-2b0a1a?style=for-the-badge&logo=css3&logoColor=FFB7C5)
+![C](https://img.shields.io/badge/C-57B6D9?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F17D0A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6DBE45?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-D93B3B?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7C948?style=for-the-badge&logo=javascript&logoColor=333)
+![HTML5](https://img.shields.io/badge/HTML5-E8502E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-57B6D9?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Concepts & Paradigms
 
@@ -26,12 +28,12 @@
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-2b0a1a?style=for-the-badge&logo=git&logoColor=FFB7C5)
-![Docker](https://img.shields.io/badge/Docker-2b0a1a?style=for-the-badge&logo=docker&logoColor=FFB7C5)
-![Makefile](https://img.shields.io/badge/Makefile-2b0a1a?style=for-the-badge&logo=gnu&logoColor=FFB7C5)
-![Vim](https://img.shields.io/badge/Vim-2b0a1a?style=for-the-badge&logo=vim&logoColor=FFB7C5)
-![VSCode](https://img.shields.io/badge/VS_Code-2b0a1a?style=for-the-badge&logo=codecrafters&logoColor=FFB7C5)
-![Linux](https://img.shields.io/badge/Linux-2b0a1a?style=for-the-badge&logo=linux&logoColor=FFB7C5)
+![Git](https://img.shields.io/badge/Git-D93B3B?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-57B6D9?style=for-the-badge&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-6DBE45?style=for-the-badge&logo=gnu&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-F17D0A?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-E8502E?style=for-the-badge&logo=codecrafters&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F7C948?style=for-the-badge&logo=linux&logoColor=333)
 
 ## Web & Networking
 
@@ -51,14 +53,14 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&theme=rose_pine&bg_color=1a0a12&border_color=FF6B9D&title_color=FFB7C5&icon_color=FF6B9D&text_color=e0c3cf" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&theme=rose_pine&bg_color=1a0a12&border_color=FF6B9D&title_color=FFB7C5&text_color=e0c3cf" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=feyyta&show_icons=true&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&icon_color=6DBE45&text_color=ffffff" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyyta&layout=compact&bg_color=12253a&border_color=F17D0A&title_color=F17D0A&text_color=ffffff" height="165" alt="Top languages"/>
 
-<img src="assets/skill-map-sakura.svg" width="100%" alt="skill map"/>
+<img src="assets/skill-map-southpark.svg" width="100%" alt="skill map"/>
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-2b0a1a?style=for-the-badge&logo=gmail&logoColor=FFB7C5)](mailto:feyta19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2b0a1a?style=for-the-badge&logo=github&logoColor=FFB7C5)](https://github.com/feyyta)
+[![Email](https://img.shields.io/badge/Email-D93B3B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feyta19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feyyta)
 
 </div>
