@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <clipPath id="type">
+      <rect x="90" y="160" width="0" height="30">
+        <animate attributeName="width" values="0;0;260;260" keyTimes="0;0.2;0.6;1" dur="4.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+  </style>
+
+  <rect width="1200" height="240" fill="#0b141d"/>
+
+  <rect x="40" y="22" width="1120" height="196" rx="12" fill="#101c29" stroke="#22364a" stroke-width="1.5"/>
+
+  <path d="M40,34 a12,12 0 0 1 12,-12 h1096 a12,12 0 0 1 12,12 v24 h-1120 z" fill="#182636"/>
+  <circle cx="68"  cy="40" r="7" fill="#D93B3B"/>
+  <circle cx="92"  cy="40" r="7" fill="#F7C948"/>
+  <circle cx="116" cy="40" r="7" fill="#6DBE45"/>
+  <text x="600" y="45" text-anchor="middle" font-size="14" fill="#5c748c">ma2t@dev: ~</text>
+
+  <text x="90" y="92" font-size="16" fill="#6DBE45">ma2t@dev:~$ ./whoami</text>
+
+  <text x="90" y="146" font-size="54" font-weight="bold" fill="#f0f4f8">ma<tspan fill="#F17D0A">2</tspan>t</text>
+  <rect class="cursor" x="238" y="105" width="7" height="42" fill="#F17D0A"/>
+
+  <text x="90" y="182" font-size="18" fill="#7d93a8" clip-path="url(#type)">&gt; software developer</text>
+
+  <g font-size="14" opacity="0.35">
+    <text x="720" y="100" fill="#57B6D9">while <tspan fill="#8fa8bd">(alive)</tspan> <tspan fill="#8fa8bd">{</tspan></text>
+    <text x="750" y="124" fill="#8fa8bd">code<tspan fill="#F17D0A">()</tspan>;</text>
+    <text x="750" y="148" fill="#8fa8bd">coffee<tspan fill="#F17D0A">()</tspan>;</text>
+    <text x="750" y="172" fill="#8fa8bd">repeat<tspan fill="#F17D0A">()</tspan>;</text>
+    <text x="720" y="196" fill="#8fa8bd">}</text>
+  </g>
+
+  <g>
+    <rect x="52"  y="211" width="274" height="4" fill="#F17D0A"/>
+    <rect x="326" y="211" width="274" height="4" fill="#6DBE45"/>
+    <rect x="600" y="211" width="274" height="4" fill="#57B6D9"/>
+    <rect x="874" y="211" width="274" height="4" fill="#D93B3B"/>
+  </g>
+</svg>
