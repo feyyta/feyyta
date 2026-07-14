@@ -2,7 +2,7 @@
 
 <img src="assets/banner-sp-dark.svg" width="100%" alt="ma2t"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&pause=1200&color=E8502E&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8502E&center=true&vCenter=true&width=600&lines=C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;low-level+programming+%C2%B7+system+design;networking+%C2%B7+cloud+%C2%B7+security" alt="typing intro"/>
 
 <img src="https://media.giphy.com/media/l3vRd3vZPrApPqzjq/giphy.gif" width="380" alt="south park coding"/>
 
